@@ -2,6 +2,51 @@
     background-color: red;
 }
 
+#heading{
+    background-color: beige;
+    height: 50px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 10%;
+    text-align: center;
+}
+
 #maindiv{
     background-color: black;
+    height: 550px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+#div1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10%;
+    padding-top: 10%;
+    border-radius: 50%;
+}
+#div2{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10%;
+    padding-top: 10%;
+    border-radius: 50%;
+}
+
+#div3{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10%;
+    padding-top: 10%;
+    border-radius: 50%;
 }
