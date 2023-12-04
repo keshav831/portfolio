@@ -1,4 +1,33 @@
 .navbar{
     display: flex;
-    flex-direction: row;
+    flex-direction:end;
+    background-color: azure;
+    border: 2px solid black;
+    justify-content: space-evenly;
+}
+
+li{
+    display: inline;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.outer{
+    background-color: rgb(57, 57, 10);
+    height: 500px;
+    width: 400px;
+    margin-left: 30%;
+    display: flex;
+   justify-content:center;
+   align-items: center;
+}
+.inner{
+    background-color: rgb(188, 188, 102);
+    height: 250px;
+    width: 200px;
+    
 }
