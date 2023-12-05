@@ -1,0 +1,21 @@
+div{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 10px solid white;
+    border-left: 10px dotted black;
+    border-top: 10px dotted black;
+    animation: SpinLoader 2s ease-in-out 0s infinite normal ;
+ 
+}
+
+@keyframes SpinLoader {
+    from{
+        transform: rotate(0deg);
+    }
+
+    to{
+        transform: rotate(360deg);
+    }
+    
+}
